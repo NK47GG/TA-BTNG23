@@ -16,7 +16,7 @@ Website ini bertujuan untuk memberikan rencana dan gambaran tentang platform pen
 1. Clone repositori ini ke komputer Anda.
 
 ```bash
-git clone https://github.com/username/nama-repositori.git
+git clone https://github.com/NK47GG/TA-BTNG23.git
 ```
 
 2. Buka folder proyek dan buka file `index.html` menggunakan browser web Anda.
