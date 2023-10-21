@@ -9,7 +9,6 @@ Website ini bertujuan untuk memberikan rencana dan gambaran tentang platform pen
 - **HTML**: Untuk struktur dasar halaman web.
 - **CSS**: Untuk tampilan dan gaya website.
 - **Bootstrap**: Untuk membangun desain responsif dan komponen UI yang mudah digunakan.
-- **JavaScript (opsional)**: Untuk fungsi interaktif tambahan jika diperlukan.
 
 ## Cara Menggunakan Website
 
