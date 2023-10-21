@@ -29,7 +29,7 @@ Kami menyambut kontribusi dari komunitas. Jika Anda ingin berkontribusi pada pro
 
 ## Lisensi
 
-Proyek ini dilisensikan di bawah [lisensi MIT](LICENSE). Anda bebas untuk menggunakan, memodifikasi, dan mendistribusikan proyek ini sesuai dengan ketentuan lisensi.
+Anda bebas untuk menggunakan, memodifikasi, dan mendistribusikan proyek ini sesuai dengan ketentuan lisensi.
 
 ---
 
